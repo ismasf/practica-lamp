@@ -3,7 +3,7 @@
 class ex extends CI_Controller{
 	
 	public function index(){
-		$this->crearAficionGet();
+		$this->crearaficionget();
 	}
 	
 	public function crearaficionget(){
